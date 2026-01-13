@@ -1,0 +1,41 @@
+[
+    {
+        "name": "alex",
+        "email": "alex@gmail.com",
+        "platform": "yt",
+        "interested_plan": "Pro Plan",
+        "timestamp": "2026-01-13T23:07:24.650010"
+    },
+    {
+        "name": "alexa",
+        "email": "alexa@yahoo.com",
+        "platform": "Snapchat",
+        "interested_plan": "Pro Plan",
+        "timestamp": "2026-01-13T23:38:02.305587"
+    },
+    {
+        "name": "siri",
+        "email": "Siri@24gmail.ac.in",
+        "platform": "yt",
+        "interested_plan": "Basic Plan",
+        "timestamp": "2026-01-13T23:55:22.848991"
+    },
+    {
+        "name": "alex",
+        "email": "alex@gmail.uset.org",
+        "platform": "yt",
+        "interested_plan": "Pro Plan",
+        "created_at": "2026-01-14T00:34:50.400480",
+        "last_contacted_at": "2026-01-14T00:45:11.497734",
+        "reinterest_count": 3
+    },
+    {
+        "name": "sj",
+        "email": "sj@ltsu.ac.in",
+        "platform": "snap",
+        "interested_plan": "Pro Plan",
+        "created_at": "2026-01-14T01:05:11.194811",
+        "last_contacted_at": "2026-01-14T01:05:11.194811",
+        "reinterest_count": 0
+    }
+]
